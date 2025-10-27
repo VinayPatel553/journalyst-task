@@ -1,24 +1,24 @@
-## Journalyst Mini Analytics Dashboard**
+## Journalyst Mini Analytics Dashboard
 
 ### -> Setup Instructions:
 
-Step 1: Clone the repository
+Step 1: Clone the repository:
   git clone https://github.com/VinayPatel553/journalyst-task.git
   cd journalist task
 
-Step 2: Install Dependencies 
-	->For Backend (server)
+Step 2: Install Dependencies: 
+	->For Backend (server):
       cd server 
       npm install
 
-  ->For Frontend (client)
+  ->For Frontend (client):
       cd client
       npm install 
       
-Step 3: Run backend
+Step 3: Run backend:
 	node index.js
   
-Step 4: Run Frontend
+Step 4: Run Frontend:
 	npm start 
 
 
