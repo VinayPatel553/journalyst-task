@@ -3,10 +3,13 @@
 ### -> Setup Instructions:
 
 Step 1: Clone the repository:
+```bash
   git clone https://github.com/VinayPatel553/journalyst-task.git
   cd journalist task
+```
 
-Step 2: Install Dependencies: 
+Step 2: Install Dependencies:
+```bash
 	->For Backend (server):
       cd server 
       npm install
@@ -14,13 +17,17 @@ Step 2: Install Dependencies:
   ->For Frontend (client):
       cd client
       npm install 
+```
       
 Step 3: Run backend:
+```bash
 	node index.js
-  
+ ```
+ 
 Step 4: Run Frontend:
+```bash
 	npm start 
-
+```
 
 ### -> Decisions I made 
 
